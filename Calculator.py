@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[8]:
-
-
 import tkinter as tk
 
 LARGE_FONT_STYLE = ("Arial", 40, "bold")
@@ -170,12 +164,3 @@ class Calculator:
 if __name__ == "__main__":
     calc = Calculator()
     calc.run()
-
-
-# In[ ]:
-
-
-#FC00FF
-#9B00FF
-#1EDBFA
-
